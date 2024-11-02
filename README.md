@@ -1,3 +1,5 @@
+#EL PDF SE ENCUENTRA SUBIDO AL REPOSITORIO BAJO EL NOMBRE DE "MUTANTES.pdf"
+
 -1 Para empezar abriremos el proyecto en IntelliJ
 -2 Tocar el boton "Run MagnetoApplication" para que la aplicacion levante (muestra el mensaje "La aplicacion se inicio correctamente"
 -3 Con la API iniciada, abriremos postman y haremos 2 request. Una sera POST y otra sera GET
