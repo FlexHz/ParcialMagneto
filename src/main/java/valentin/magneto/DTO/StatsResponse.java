@@ -10,11 +10,12 @@ import valentin.magneto.validator.ValidDna;
 @Getter
 @Setter
 public class StatsResponse {
+
     @JsonProperty("count_mutant_dna")
     private long countMutantDna;
 
     @JsonProperty("count_human_dna")
     private long countHumanDna;
-
+    @JsonProperty
     private double ratio;
 }
